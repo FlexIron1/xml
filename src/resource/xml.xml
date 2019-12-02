@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><nedvig:house xmlns:nedvig="main" xmlns:bonus="bonus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="main one.xsd">    <nedvig:address>Улица Даурская, дом 20А</nedvig:address>    <nedvig:owner name="Самат">        <bonus:telephone>89083485772</bonus:telephone>    </nedvig:owner></nedvig:house>
